@@ -1,8 +1,8 @@
 require "bundler/capistrano"
  
  
-set :application, "blog_app"
-set :user, "photogur"
+set :application, "photogur"
+set :user, "joshis"
  
  
 set :scm, :git
